@@ -1,0 +1,5 @@
+# Project exclude paths
+/broker/target/
+/core/target/
+/market/target/
+/router/target/
